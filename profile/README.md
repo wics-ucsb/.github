@@ -1,28 +1,52 @@
+<p align="center">
+  <picture>
+    <img src="https://raw.githubusercontent.com/wics-ucsb/.github/main/profile/logo.png" width="160" alt="WiCS UCSB logo">
+  </picture>
+</p>
+
 <h1 align="center">Women in Computer Science at UC Santa Barbara</h1>
 
 <p align="center">
-  <a href="https://wics-ucsb.github.io"><b>Website</b></a> ·
-  <a href="https://wics-ucsb.github.io/events">Events</a> ·
-  <a href="https://wics-ucsb.github.io/engage#join">Join us</a> ·
-  <a href="https://www.instagram.com/ucsb_wics">Instagram</a> ·
-  <a href="https://www.linkedin.com/company/women-in-computer-science-ucsb">LinkedIn</a>
+  <a href="https://wics-ucsb.github.io"><img src="https://img.shields.io/badge/Website-334c96?style=for-the-badge" alt="Website"></a>
+  <a href="https://wics-ucsb.github.io/events"><img src="https://img.shields.io/badge/Events-6e4479?style=for-the-badge" alt="Events"></a>
+  <a href="https://wics-ucsb.github.io/engage#join"><img src="https://img.shields.io/badge/Join%20us-334c96?style=for-the-badge" alt="Join us"></a>
+  <a href="https://www.instagram.com/ucsb_wics"><img src="https://img.shields.io/badge/Instagram-6e4479?style=for-the-badge" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/company/women-in-computer-science-ucsb"><img src="https://img.shields.io/badge/LinkedIn-334c96?style=for-the-badge" alt="LinkedIn"></a>
 </p>
 
-We aim to bridge gender and inclusivity gaps in the tech industry by creating a thriving community that fosters collaboration, growth, and mutual support among all members. Everyone is welcome, regardless of gender, ability, skill level, or major.
+Women in Computer Science at UC Santa Barbara aims to empower women and underrepresented students in tech, and we welcome members regardless of your gender, ability, skill level, or major. We are dedicated to creating an inclusive space for students to grow academically, professionally, and personally while building a strong sense of community in CS.
 
 ## What we do
 
-- **Technical & professional development**: workshops, tech talks, resume reviews, and mock interviews
-- **Community building**: mentorship, socials, and study groups
-- **High school outreach**: introducing high school students to computing
-- **Mentorship Bubbles program**: small mentorship groups for members
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Technical &amp; professional development</h3>
+      Workshops, tech talks, resume reviews, and mock interviews that build skills and open doors.
+    </td>
+    <td width="50%" valign="top">
+      <h3>Community building</h3>
+      Mentorship, socials, and study groups with women in tech at UCSB.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>High school outreach</h3>
+      Introducing high school students to computing and showing what a path in tech can look like.
+    </td>
+    <td width="50%" valign="top">
+      <h3>Mentorship Bubbles</h3>
+      Small mentorship groups that connect members with peers and mentors.
+    </td>
+  </tr>
+</table>
 
 ## Get involved
 
-- 🎓 **Become a member:** [how to join](https://wics-ucsb.github.io/engage#join)
-- 📬 **Stay updated:** [join our mailing list](https://tinyurl.com/wics-mailing-list)
-- 💡 **Suggest an event:** [tell us your idea](https://tinyurl.com/wics-new-event)
-- 🤝 **Sponsor us:** [sponsorship info](https://wics-ucsb.github.io/engage#sponsor)
+- **Become a member:** [how to join](https://wics-ucsb.github.io/engage#join)
+- **Stay updated:** [join our mailing list](https://tinyurl.com/wics-mailing-list)
+- **Suggest an event:** [tell us your idea](https://tinyurl.com/wics-new-event)
+- **Sponsor us:** [sponsorship info](https://wics-ucsb.github.io/engage#sponsor)
 
 ## Our repositories
 
