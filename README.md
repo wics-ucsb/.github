@@ -33,6 +33,6 @@ We aim to bridge gender and inclusivity gaps in the tech industry by creating a 
 
 ## Contribute
 
-Members are welcome to help improve the website. Open an issue or pull request in the [website repo](https://github.com/wics-ucsb/wics-ucsb.github.io), or email us at [your club email].
+Members are welcome to help improve the website. Open an issue or pull request in the [website repo](https://github.com/wics-ucsb/wics-ucsb.github.io), or email us at ucsb.wics@gmail.com.
 
 <sub>Women in Computer Science · UC Santa Barbara</sub>
